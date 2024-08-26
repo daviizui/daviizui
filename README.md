@@ -9,20 +9,20 @@
 - ⚡ Fun fact: **i like bonsai, cats and used to make YouTube videos**
 
 ##
-![computer-cat](https://github.com/user-attachments/assets/470e58f4-9e1a-4f3d-bf72-fb4156949685)
 
+<img align="right" height="210" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif"/>
 
-
-##
 
 <div align="left">
 <a href="https://github.com/daviizui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviizui&layout=compact&langs_count=7&theme=dracula"/>
-
 </div>
 
 
-<div align="right">
+##
+
+
+<div align="center">
 <a href="www.youtube.com/vaicompao" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="www.instagram.com/daviizui/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "davi.izui@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
