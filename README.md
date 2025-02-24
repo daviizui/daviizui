@@ -3,7 +3,8 @@
 
 
 - 🔭 I’m currently working on **... actually not working** 
-- 🌱 I’m currently learning: <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>      
+- 🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+                
 - 💬 Ask me about **... anything**
 - 📫 How to reach me: **links below**
 - ⚡ Fun fact: **i like bonsai, cats and used to make YouTube videos**
