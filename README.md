@@ -2,9 +2,8 @@
 ## I'm Davi! 
 
 
-- 🔭 I’m currently working on **... actually not working** 
-- 🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-                
+- 🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" align="center"  />
+- 🔭 I’m currently working on **... actually not working**                 
 - 💬 Ask me about **... anything**
 - 📫 How to reach me: **links below**
 - ⚡ Fun fact: **i like bonsai, cats and used to make YouTube videos**
